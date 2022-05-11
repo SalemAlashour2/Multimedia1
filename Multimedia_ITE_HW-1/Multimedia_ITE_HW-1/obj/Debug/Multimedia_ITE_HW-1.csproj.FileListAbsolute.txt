@@ -1,0 +1,9 @@
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\bin\Debug\Multimedia_ITE_HW-1.exe.config
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\bin\Debug\Multimedia_ITE_HW-1.exe
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\bin\Debug\Multimedia_ITE_HW-1.pdb
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\obj\Debug\Multimedia_ITE_HW-1.csprojResolveAssemblyReference.cache
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\obj\Debug\Multimedia_ITE_HW_1.Form1.resources
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\obj\Debug\Multimedia_ITE_HW_1.Properties.Resources.resources
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\obj\Debug\Multimedia_ITE_HW-1.csproj.GenerateResource.Cache
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\obj\Debug\Multimedia_ITE_HW-1.exe
+C:\Users\Abdalrahim Khoulani\Desktop\Multimedia\Multimedia_ITE_HW-1\Multimedia_ITE_HW-1\obj\Debug\Multimedia_ITE_HW-1.pdb
